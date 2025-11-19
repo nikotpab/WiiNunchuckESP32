@@ -22,6 +22,8 @@ En el computador, un script en Python recibe y procesa los datos enviados, permi
 
 ## Conexiones del Sensor
 
+![Puertos del NunChuck]([https://url-de-la-imagen.com/imagen.jpg](https://www.luisllamas.es/wp-content/uploads/2016/10/arduino-wiichuck-detalle.png))
+
 ### Tabla de conexión
 
 | Pin del Sensor | Función                  | Pin en Arduino |
