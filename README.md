@@ -7,7 +7,7 @@ En el computador, un script en Python recibe y procesa los datos enviados, permi
 
 ---
 
-## 📌 Características principales
+## Características
 
 * Lectura de datos desde un sensor I2C conectado a los pines **A4 (SDA)** y **A5 (SCL)**.
 * Transmisión continua de los valores al computador mediante **puerto serial USB**.
@@ -21,14 +21,6 @@ En el computador, un script en Python recibe y procesa los datos enviados, permi
 ---
 
 ## Conexiones del Sensor
-
-### Distribución de pines del módulo
-
-![sensor](/mnt/data/acbfdf44-8701-4d82-9f4e-017cca56b65b.png)
-
-### Conexión al Arduino
-
-![arduino diagram](/mnt/data/Screenshot 2025-11-19 at 11.19.01.png)
 
 ### Tabla de conexión
 
